@@ -1,2 +1,2 @@
 #!/bin/bash
-grimblast --freeze copy area | grim
+grimblast --freeze copy area
