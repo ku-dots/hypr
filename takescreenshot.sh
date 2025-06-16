@@ -1,2 +1,2 @@
 #!/bin/bash
-grimblast --freeze copy area
+hyprshot -m region -z -t 2000 --clipboard-only
